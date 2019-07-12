@@ -8,7 +8,7 @@ export default {
     name:'Header',
     props:{
         title:{
-            type:String,
+            type: String,
             default:'喵喵电影'
         }
     }
